@@ -1,4 +1,7 @@
 controlDelRuido
 ===============
 
-bbbb hola 
+## Herramientas mecánicas para el control de ruido
+
+- Rines 
+- Poleas
