@@ -27,7 +27,7 @@ usos del integrado  555:
 
 555 como reloj 
 
-555 com secuenciador de señal y manipulador de onda
+555 como secuenciador de señal y manipulador de onda
 
 Principios mecánicos: poleas, tracción, rebote, fricción, impulso, impacto, entre otros.
 
