@@ -1,7 +1,7 @@
 controlDelRuido
 ===============
 
-## Instrumentos mecánicos para el control de ruido.
+## Instrumentos mecánicos y de electronica simple para el control de ruido.
 
 
 Ruidos producidos por:  rozamiento, percusión, paso de aire, paso de agua, rebote, explosión , implosión, circuitos y todas sus posibilidades aplicables a la música, fenómenos naturales, 
@@ -54,8 +54,11 @@ dos varas de madera  3cm por 3cm, alambre dulce, tornillos de ensamble, un motor
 -Proyecto 555
 
 -555 como reloj: kit reloj.
+
 -555 como escala variable(proyecto piano electronico 1 y 2 ).
+
 -555 como secuenciador; kit secuenciador.
+
 
 
 
