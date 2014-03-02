@@ -16,7 +16,7 @@ Componentes electrónicos de uso común en la amplificación de ruidos:
 -motores 
 -suiches
 
-usos del integrado  555
+##usos del integrado  555
 
 -como generador de pulso
 -como controlador de tiempo
@@ -32,12 +32,12 @@ usos del integrado  555
 
 Principios mecánicos: poleas, tracción, rebote, fricción, impulso, impacto, entre otros.
 
-Vibración 
+#Vibración 
 
 como aprovechar la vibración en este caso por desbalance, para hacer variaciones en las frecuencias.
 en este caso haremos uso de motores pequeños, usados en diversos aparatos de control automático,electrodomesticos  o bien pueden ser adquiridos en tiendas de productos para la electrónica,  alimentación entre 3 y 10 voltios. 
 
-##Instrumentos que producen su sonido por desbalance 
+##Instrumentos que producen su sonido por vibracion y desbalance 
 
 ###Proyecto caja de bajos
 materiales:
