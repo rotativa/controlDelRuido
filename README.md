@@ -16,7 +16,8 @@ Componentes electrónicos de uso común en la amplificación de ruidos:
 -motores 
 -suiches
 
-usos del integrado  555:
+usos del integrado  555
+
 -como generador de pulso
 -como controlador de tiempo
 -como generador de señal de ruido simple 
@@ -34,21 +35,30 @@ Principios mecánicos: poleas, tracción, rebote, fricción, impulso, impacto, e
 Vibración 
 
 como aprovechar la vibración en este caso por desbalance, para hacer variaciones en las frecuencias.
-en este caso haremos uso de motores pequeños, usados en diversos apretaos de control automático o bien pueden ser adquiridos en tiendas de productos para la electrónica,  alimentación entre 3 y 10 voltios. 
+en este caso haremos uso de motores pequeños, usados en diversos aparatos de control automático,electrodomesticos  o bien pueden ser adquiridos en tiendas de productos para la electrónica,  alimentación entre 3 y 10 voltios. 
 
-Instrumentos que producen su sonido por desbalance: 
+Instrumentos que producen su sonido por desbalance 
 
--Proyecto caja de bajos:
+-Proyecto caja de bajos
 materiales:
 motores mínimo tres, cable, soldadura cautin, cajas de cartón, suches de cualquier forma pero tipo normalmente abiertos, revestimiento de alambre de calibre grueso o grapas para fijar cable a pared,
 
 555 para incluirlo a este circuito como controlador de revoluciones 
 
-Instrumentos que producen su sonido por por rozamiento:
+Instrumentos que producen su sonido por por rozamiento
 
--Proyecto Esmerilofono:
+-Proyecto Esmerilofono
 materiales:
 dos varas de madera  3cm por 3cm, alambre dulce, tornillos de ensamble, un motor tipo esmeril de taller, tuberia  de acero media pulgada, triplex 6mm 1por 150
+
+-Proyecto 555
+
+-555 como reloj: kit reloj.
+-555 como escala variable(proyecto piano electronico 1 y 2 ).
+-555 como secuenciador; kit secuenciador.
+
+
+
 
 
 
