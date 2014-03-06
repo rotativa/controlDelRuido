@@ -24,3 +24,5 @@ responder  preguntas de este tipo:
 caracteriza.?
 
   Diferentes colectivos en el pais como latin latas bogota, ……..pendiente
+  
+  
