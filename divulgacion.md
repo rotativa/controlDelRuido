@@ -37,7 +37,21 @@ Aspectos básicos para manipular el ruido hasta lograr hacer del este instrument
    este fenómeno que lo veremos presente todo el tiempo en nuestras construcciones electromecánicas por así llamarlo rápidamente, por que no solo hablaremos de música e instrumentos para ella  si no muchos aspectos involucrados en el desarrollo de los aparatos que cada uno de nosotros puede generar desde su imaginación y los objetos que reunamos o tengamos a la mano.
    en esta materia haremos practicas con materiales en los que predomina la resonancia para así darnos mas claridad de algún otro sonido que necesitemos, por ejemplo la maquinita de música que nos dio tita para hacerla un objeto aun mas especial que por cierto le haré una caja resonante y Dani espero le haga un preamp bien bendiado para el piezo que pienso ponerle,  (reto ) en el que abordaremos dos temas que van ligados, los piezos y sus utilidades y las cajas de resonancia com aspecto de la materia anterior 
    
-   entenderemos el piezoelectrico como aliado numero dos en nuestro proyecto, por medio de este mágico dispositivo tendremos la posibilidad 
+   entenderemos el piezoelectrico como aliado numero dos en nuestro proyecto, por medio de este mágico dispositivo tendremos la posibilidad de hacer desde nuestros primeros experimentos hasta nuestros trabajos finales tomando este como micrófono de contacto para después pasar por un amplificador, en la mayoría de los casos para controlar su potencia sonora 
+
+de una forma muy intuitiva haremos muchos ejercicios de reconocimiento de espacio y materiales en nuestra sociedad, haremos salidas tipo comité recolector de objetos y luego haremos el respectivo marañeo  de todo esto para crear maquinas sonoras con las que se nos haga posible hacer con ellas desde una interpretación aleatoria hasta participar en un ensamble musical 
+
+pautas para escoger  objetos y algunos  ejemplos
+
+determinar su resonancia y la reacción a diferentes cuerpos ejecutantes es decir hacer un test rápido con lo que tengamos a la mano  sean las llaves o un lapicero o una moneda  o las mismas manos o dedos, esto es relativo al objeto
+
+entender desde un principio que por mas aproximados que estemos a algunas notas  es difícil en la mayoría de los casos pretender que esto es un instrumento calculado por que no lo es y ahí esta la verdadera esencia  y la magia de esta materia,
+
+
+
+
+
+   
    
    
    
