@@ -32,7 +32,7 @@ Aquí desarrollaremos al maximo  la curiosidad por el sonido, estimularemos el i
    
    diferenciaremos que materiales suenan mas q otros y partiendo de esta conclusión definiremos si es necesario un agente externo que nos amplifique ese sonido natural o si por el contrario nos lo reduzca o también otro mecanismo que facilite su ejecución, recordemos siempre que el objetivo es hacer de cada ruido un producto sonoro audible
    
-   #### La Resonancia como aliado numero uno en nuestra practica
+#### La Resonancia como aliado numero uno en nuestra practica
    
    este fenómeno que lo veremos presente todo el tiempo en nuestras construcciones electromecánicas por así llamarlo rápidamente, por que no solo hablaremos de música e instrumentos para ella  si no de muchos aspectos involucrados en el desarrollo de los aparatos que cada uno de nosotros puede generar desde su imaginación y los objetos que reunamos o tengamos a la mano.
    en esta materia haremos practicas con materiales en los que predomina la resonancia para así darnos mas claridad de algún otro sonido que necesitemos, por ejemplo la maquinita de música que nos dio tita para hacerla un objeto aun mas especial que por cierto le haré una caja resonante y Dani espero le haga un preamp bien bendiado para el piezo que pienso ponerle,  (reto ) en el que abordaremos dos temas que van ligados, los piezos y sus utilidades y las cajas de resonancia com aspecto de la materia anterior 
@@ -54,55 +54,5 @@ al practicar y desarrollar muchas cosas se va adquiriendo esa malicia o destreza
 
 
 
-
-
-
-
-
-
-   
-   
-   
-   
-   
-   
-   
-
-
-
-
-
-La función de esta parte es que la comunidad general (no educada en el tema)
-se lleve una noción de lo que se trata la temática, esta sección puede
-responder  preguntas de este tipo:
-
-* Que es eso en lenguaje cotidiano?
-
-   Instrumentos para hacer música, maquinas sonoras,objetos enmarañados. 
-
-* ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
- 
-   Para buscar nuevas formas de hacer música, para encontrar nuevas posibilidades sonoras para el arte en general.
-
-* ¿Qué problema intenta resolver?
-
-   Adquirir para la música o cualquier tipo de expresión sonora ruidos que están presentes en muchos objetos que no fueron pensados para la música, Reutilizar e intervenir estos mismos mostrando diferentes tipos de técnicas para hacerlos instrumento musical.
-
-
-* ¿Porqué es importante para nuestro contexto aprender de eso?
-
-   Por que no solo hay aspectos musicales involucrados en este proyecto, también mecánica, electrónica , diseño, mecatronica en general.
-
-* ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
-caracteriza.?
-
-  Diferentes colectivos en el pais como latin latas bogota, ……..pendiente   
-  
-  
-  
-  
-  *Manipulacion de el ruido
-  
- * 
 
 
