@@ -1,10 +1,10 @@
 ### Divulgación
 
 
-Aquí aprenderemos la curiosidad por el sonido, desarrollaremos en ingenio para hacer sonar diferentes materiales d uso no precisamente musical y desarrollaremos la capacidad de hacer música con estos.
+Aquí desarrollaremos al maximo  la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer musica.
 
 
-Aspectos básicos para manipular el ruido hasta lograr hacer del este instrumentos para crear música.
+Aspectos básicos para manipular el ruido hasta lograr hacer de este instrumentos para crear música en un ensamble sonoro.
  
    estimulo de toda destreza q puede ser aplicada a muchas de las practicas para crear muchos aparatos electromecánicos     para hacer música.
    desarrollo de la creatividad y el ingenio por medio de practicas directas con diversos materiales presentes en nuestro    entorno los cuales en su mayoría son ricos en sonoridades y características acústicas.
@@ -34,7 +34,7 @@ Aspectos básicos para manipular el ruido hasta lograr hacer del este instrument
    
    la resonancia como aliado numero uno en nuestra practica
    
-   este fenómeno que lo veremos presente todo el tiempo en nuestras construcciones electromecánicas por así llamarlo rápidamente, por que no solo hablaremos de música e instrumentos para ella  si no muchos aspectos involucrados en el desarrollo de los aparatos que cada uno de nosotros puede generar desde su imaginación y los objetos que reunamos o tengamos a la mano.
+   este fenómeno que lo veremos presente todo el tiempo en nuestras construcciones electromecánicas por así llamarlo rápidamente, por que no solo hablaremos de música e instrumentos para ella  si no de muchos aspectos involucrados en el desarrollo de los aparatos que cada uno de nosotros puede generar desde su imaginación y los objetos que reunamos o tengamos a la mano.
    en esta materia haremos practicas con materiales en los que predomina la resonancia para así darnos mas claridad de algún otro sonido que necesitemos, por ejemplo la maquinita de música que nos dio tita para hacerla un objeto aun mas especial que por cierto le haré una caja resonante y Dani espero le haga un preamp bien bendiado para el piezo que pienso ponerle,  (reto ) en el que abordaremos dos temas que van ligados, los piezos y sus utilidades y las cajas de resonancia com aspecto de la materia anterior 
    
    entenderemos el piezoelectrico como aliado numero dos en nuestro proyecto, por medio de este mágico dispositivo tendremos la posibilidad de hacer desde nuestros primeros experimentos hasta nuestros trabajos finales tomando este como micrófono de contacto para después pasar por un amplificador, en la mayoría de los casos para controlar su potencia sonora 
@@ -49,6 +49,7 @@ entender desde un principio que por mas aproximados que estemos a algunas notas 
 de alguna forma cada material como fuente sonora nos da alguna respuesta al ser manipulados, de ahi partiremos a determinar en que tipo de estructura lo podriamos poner para extraer de el ese ruido natural q luego muy seguramente sera un sonido que usaremos en la musica como conclusion o ideal en este proceso.
 
 en estas practicas de transformacion de los objetos y manipulacion de sus propiedades sonoras tendremos que hacer hincapie en varias disciplinas que involucraremos en nuestras construcciones como algo de carpinteria basica en caso de usar madera, diseño y corte de piezas con laser y plasma, adaptacion de piezas para hacerlas un nuevo componete en nuestras creaciones, identificacion en el entorno de lo que necesitamos para armar o construir algun aparato, principios basicos de la estetica, aunque de aca partiremos un camino mas hacia lo conceptual sin ovbiar que muchas veces lo practico prevalece en lo visual.
+
 
 
 
