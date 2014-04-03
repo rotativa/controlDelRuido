@@ -45,7 +45,10 @@ pautas para escoger  objetos y algunos  ejemplos
 
 determinar su resonancia y la reacción a diferentes cuerpos ejecutantes es decir hacer un test rápido con lo que tengamos a la mano  sean las llaves o un lapicero o una moneda  o las mismas manos o dedos, esto es relativo al objeto
 
-entender desde un principio que por mas aproximados que estemos a algunas notas  es difícil en la mayoría de los casos pretender que esto es un instrumento calculado por que no lo es y ahí esta la verdadera esencia  y la magia de esta materia,
+entender desde un principio que por mas aproximados que estemos a algunas notas  es difícil en la mayoría de los casos pretender que esto es un instrumento calculado por que no lo es y ahí esta la verdadera esencia  y la magia de esta materia.
+de alguna forma cada material como fuente sonora nos da alguna respuesta al ser manipulados, de ahi partiremos a determinar en que tipo de estructura lo podriamos poner para extraer de el ese ruido natural q luego muy seguramente sera un sonido que usaremos en la musica como conclusion o ideal en este proceso.
+
+en estas practicas de transformacion de los objetos y manipulacion de sus propiedades sonoras tendremos que hacer hincapie en varias disciplinas que involucraremos en nuestras construcciones como algo de carpinteria basica en caso de usar madera, diseño y corte de piezas con laser y plasma, adaptacion de piezas para hacerlas un nuevo componete en nuestras creaciones, identificacion en el entorno de lo que necesitamos para armar o construir algun aparato, principios basicos de la estetica, aunque de aca partiremos un camino mas hacia lo conceptual sin ovbiar que muchas veces lo practico prevalece en lo visual.
 
 
 
