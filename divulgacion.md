@@ -4,7 +4,7 @@
 Aquí desarrollaremos al maximo  la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer musica.
 
 
-#Aspectos básicos para manipular el ruido hasta lograr hacer de este instrumentos para crear música en un ensamble sonoro.
+#### Aspectos básicos para manipular el ruido hasta lograr hacer de este instrumentos para crear música en un ensamble sonoro.
  
    estimulo de toda destreza q puede ser aplicada a muchas de las practicas para crear muchos aparatos electromecánicos     para hacer música.
    desarrollo de la creatividad y el ingenio por medio de practicas directas con diversos materiales presentes en nuestro    entorno los cuales en su mayoría son ricos en sonoridades y características acústicas.
@@ -32,7 +32,7 @@ Aquí desarrollaremos al maximo  la curiosidad por el sonido, estimularemos el i
    
    diferenciaremos que materiales suenan mas q otros y partiendo de esta conclusión definiremos si es necesario un agente externo que nos amplifique ese sonido natural o si por el contrario nos lo reduzca o también otro mecanismo que facilite su ejecución, recordemos siempre que el objetivo es hacer de cada ruido un producto sonoro audible
    
-   ## La Resonancia como aliado numero uno en nuestra practica
+   #### La Resonancia como aliado numero uno en nuestra practica
    
    este fenómeno que lo veremos presente todo el tiempo en nuestras construcciones electromecánicas por así llamarlo rápidamente, por que no solo hablaremos de música e instrumentos para ella  si no de muchos aspectos involucrados en el desarrollo de los aparatos que cada uno de nosotros puede generar desde su imaginación y los objetos que reunamos o tengamos a la mano.
    en esta materia haremos practicas con materiales en los que predomina la resonancia para así darnos mas claridad de algún otro sonido que necesitemos, por ejemplo la maquinita de música que nos dio tita para hacerla un objeto aun mas especial que por cierto le haré una caja resonante y Dani espero le haga un preamp bien bendiado para el piezo que pienso ponerle,  (reto ) en el que abordaremos dos temas que van ligados, los piezos y sus utilidades y las cajas de resonancia com aspecto de la materia anterior 
