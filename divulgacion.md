@@ -23,6 +23,15 @@ responder  preguntas de este tipo:
 * ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
 caracteriza.?
 
-  Diferentes colectivos en el pais como latin latas bogota, ……..pendiente
+  Diferentes colectivos en el pais como latin latas bogota, ……..pendiente   
   
   
+  
+  
+  
+ * Aspectos basicos para manuipular el ruido hasta lograr hacer del este instrumentos para crear musica.
+ 
+estimulo de toda destreza q puede ser aplicada a muchas de las practicas para crear muchos aparatos electromecanicos para hacer 
+
+
+
