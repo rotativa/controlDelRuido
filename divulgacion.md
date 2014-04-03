@@ -48,7 +48,10 @@ determinar su resonancia y la reacción a diferentes cuerpos ejecutantes es deci
 entender desde un principio que por mas aproximados que estemos a algunas notas  es difícil en la mayoría de los casos pretender que esto es un instrumento calculado por que no lo es y ahí esta la verdadera esencia  y la magia de esta materia.
 de alguna forma cada material como fuente sonora nos da alguna respuesta al ser manipulados, de ahi partiremos a determinar en que tipo de estructura lo podriamos poner para extraer de el ese ruido natural q luego muy seguramente sera un sonido que usaremos en la musica como conclusion o ideal en este proceso.
 
-en estas practicas de transformacion de los objetos y manipulacion de sus propiedades sonoras tendremos que hacer hincapie en varias disciplinas que involucraremos en nuestras construcciones como algo de carpinteria basica en caso de usar madera, diseño y corte de piezas con laser y plasma, adaptacion de piezas para hacerlas un nuevo componete en nuestras creaciones, identificacion en el entorno de lo que necesitamos para armar o construir algun aparato, principios basicos de la estetica, aunque de aca partiremos un camino mas hacia lo conceptual sin ovbiar que muchas veces lo practico prevalece en lo visual.
+en estas practicas de transformacion de los objetos y manipulacion de sus propiedades sonoras tendremos que hacer hincapie en varias disciplinas que involucraremos en nuestras construcciones como algo de carpinteria basica en caso de usar madera, diseño y corte de piezas con laser y plasma, adaptacion de piezas para hacerlas un nuevo componete en nuestras creaciones, identificacion en el entorno de lo que necesitamos para armar o construir algun aparato, principios basicos de la estetica, aunque de aca partiremos un camino mas hacia lo conceptual sin obviar que muchas veces lo practico prevalece en lo visual.
+
+al practicar y desarrollar muchas cosas se va adquiriendo esa malicia o destreza necesaria para lograr poner muchos ruidos en la musica y varios artes hasta el punto de encontrar un sentido util sonoro pero sobretodo practico por que aveces esto no es posible y para hacer instrumentos por naturaleza hay que pensar en movilidad y poco volumen en lo posible, no dejando de abordar este tema como un gran pilar y lo llamariamos estaciones sonoras fijas en las que por medio de otro tipo de proceso accederemos a sus propiedades sonoras pero siendo nosotros quienes nos desplacemos y obtengamos a como de lugar ese sonido que genera cada objeto
+
 
 
 
@@ -73,11 +76,11 @@ responder  preguntas de este tipo:
 
 * Que es eso en lenguaje cotidiano?
 
-   Instrumentos para hacer música y sonidos hechos con objetos, 
+   Instrumentos para hacer música, maquinas sonoras,objetos enmarañados. 
 
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
  
-   Para buscar nuevas formas de hacer música, para encontrar nuevas posibilidades sonoras entre otras,
+   Para buscar nuevas formas de hacer música, para encontrar nuevas posibilidades sonoras para el arte en general.
 
 * ¿Qué problema intenta resolver?
 
