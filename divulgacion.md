@@ -50,7 +50,9 @@ de alguna forma cada material como fuente sonora nos da alguna respuesta al ser 
 
 en estas practicas de transformacion de los objetos y manipulacion de sus propiedades sonoras tendremos que hacer hincapie en varias disciplinas que involucraremos en nuestras construcciones como algo de carpinteria basica en caso de usar madera, diseño y corte de piezas con laser y plasma, adaptacion de piezas para hacerlas un nuevo componete en nuestras creaciones, identificacion en el entorno de lo que necesitamos para armar o construir algun aparato, principios basicos de la estetica, aunque de aca partiremos un camino mas hacia lo conceptual sin obviar que muchas veces lo practico prevalece en lo visual.
 
-al practicar y desarrollar muchas cosas se va adquiriendo esa malicia o destreza necesaria para lograr poner muchos ruidos en la musica y varios artes hasta el punto de encontrar un sentido util sonoro pero sobretodo practico por que aveces esto no es posible y para hacer instrumentos por naturaleza hay que pensar en movilidad y poco volumen en lo posible, no dejando de abordar este tema como un gran pilar y lo llamariamos estaciones sonoras fijas en las que por medio de otro tipo de proceso accederemos a sus propiedades sonoras pero siendo nosotros quienes nos desplacemos y obtengamos a como de lugar ese sonido que genera cada objeto.
+al practicar y desarrollar muchas cosas se va adquiriendo esa malicia o destreza necesaria para lograr poner muchos ruidos en la musica y varios artes hasta el punto de encontrar un sentido util sonoro pero sobretodo practico por que aveces esto no es posible y para hacer instrumentos por naturaleza hay que pensar en movilidad y poco volumen en lo posible, no dejando de abordar este tema como un gran pilar y lo llamariamos estaciones sonoras fijas en las que por medio de otro tipo de proceso accederemos a sus propiedades sonoras pero siendo nosotros quienes nos desplacemos y obtengamos a como de lugar ese sonido que genera cada objeto o estructura 
+
+
 
 
 
