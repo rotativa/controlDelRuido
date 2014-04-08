@@ -28,7 +28,7 @@ en un agujero hecho en la caja pegaremos el motor con silicona, una vez seco, ac
 #####Pulsador: pondremos un tornillo en la punta del eje del motor segun fijura.
 para asi ubicarlo en un punto de la caja y al accionarlo poder golpear la caja igual que con el vibrador producir frecuencias bajas 
 
-####Llevando la maquina sonora a una pieza musical.
+####Llevando la caja sonora a una pieza musical.
 
 una vez instalados los  motores que nos harán la percusión  y la vibración en la caja, clasificaremos una serie de sonidos  que usaremos como  notas y otros menos melodicos que usaremos como ritmo accionando el pulsador. 
 
