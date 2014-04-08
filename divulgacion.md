@@ -13,7 +13,7 @@ En nuestro primer ejercicio nos pondremos como reto hacer de una caja de carton 
 
 
 A un motor pequeño q desbalancearemos poniendo un trozo de revestimiento de cable en su eje fig ( ) le conectaremos el  suiche segun la grafica (  )  figura  
-en un agujero hecho en la caja pegaremos el motor con silicona y ya seco, accionaremos el motor, conectaremos el piezo para amplificar la vibracion de la caja y con un interruptor controlaremos cuando sonar o no, pondremos un tornillo en la punta del eje del motor segun fijura.
+en un agujero hecho en la caja pegaremos el motor con silicona y ya seco, accionaremos el motor, conectaremos el piezo para amplificar la vibracion de la caja y con un interruptor controlaremos cuando sonar o no, pondremos un tornillo en la punta del eje de otro  motor segun fijura.
 para asi ubicarlo en un punto de la caja y al accionarlo poder golpear la caja.
 
 ya instalados los  motores que nos harán la percusión y la vibración en la caja, clasificaremos una serie de sonidos  que usaremos como  notas y otros menos melodicos que usaremos como ritmo . 
