@@ -12,19 +12,14 @@ En este proceso de reconocimiento jugaremos con el sonido de forma didactica, in
 En nuestro primer ejercicio nos pondremos como reto hacer de una caja de carton un instrumento musical, exploraremos sus posibilidades sonoras   haciendola vibrar,   percutiendola y amplificando su sonido con piezos y microfonos conectados a un amplificador .
 
 
+a un  motor pequeñodesbalanceado(   ) este desbalance lo logramos poniendo un trozo de termoencojible en su eje, le conectaremos el esquema de suiche segun la grafica (  )  figura  
+en un agujero hecho en la caja pegaremos el motor con silicona, ya seco, accionaremos el motor y conectaremos el piezo para amplificar la vibracion de la caja y por medio de un interruptor controlaremos cuando sonar o no
+pondremos un tornillo en la punta del eje del motor segun fijura.
+para asi ubicarlo en un punto de la caja y al accionarlo poder golpear la caja.
 
-#####vibrador: a un  motor pequeño con alimentacion de corriente y ya desbalanceado(   ) este desbalance lo logramos poniendo un trozo de termoencojible en su eje, le conectaremos el esquema de suiche segun la grafica (  )  figura  
- 
-en un agujero hecho en la caja pegaremos el motor con silicona, una vez seco, accionaremos el motor y activaremos el piezo para sentir la vibracion y las frecuencias mas bajas en la caja y por medio de un interruptor controlaremos cuando sonar o no
+ya instalados los  motores que nos harán la percusión y la vibración en la caja, clasificaremos una serie de sonidos  que usaremos como  notas y otros menos melodicos que usaremos como ritmo . 
 
-#####Pulsador: pondremos un tornillo en la punta del eje del motor segun fijura.
-para asi ubicarlo en un punto de la caja y al accionarlo poder golpear la caja igual que con el vibrador producir frecuencias bajas 
-
-
-
-una vez instalados los  motores que nos harán la percusión  y la vibración en la caja, clasificaremos una serie de sonidos  que usaremos como  notas y otros menos melodicos que usaremos como ritmo accionando el pulsador. 
-
-ya teniendo nuestra caja de carton alterada  acompañaremos una base ritmica que prepararemos con  dos o tres canecas y dos sartenes para asi tener la gama basica de frecuencias altos(sartenes) medios (canecas) bajos (caja de bajos)
+ya teniendo nuestra caja de carton alterada  acompañaremos una base ritmica que prepararemos con  dos o tres canecas y dos sartenes para asi tener la gama basica de frecuencias altos(sartenes), medios (canecas), bajos (caja de bajos).
 
 
  
