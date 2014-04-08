@@ -4,7 +4,7 @@
 Aquí desarrollaremos la curiosidad por el sonido de los objetos , estimularemos el ingenio para experimentar, con diferentes materiales de uso cotidiano y su uso en la elaboracion de  maquinas, con las que podemos hacer musica.
 
 
-En este proceso de reconocimiento jugaremos con el sonido de forma didactica, insentivando  la curiosidad. Considerando aspectos en los objetos como sus sonoridades y tamaños. Haremos pruebas sonoras con materiales desarrollando diversas técnicas de ejecución como percutir, rozar,inflar, soplar, arañar y quebrar entre otras. Esta practica nos dará la posibilidad de decidir con que herramientas se intervendrá el objeto, hasta llevarlo a una maquina musical con todas sus características sonoras posibles.
+En este proceso de reconocimiento jugaremos con el sonido de forma didactica, insentivando  la curiosidad. Considerando aspectos en los objetos como sus sonoridades y tamaños. Haremos pruebas sonoras con materiales desarrollando diversas técnicas de ejecución como percutir, rozar y vibrar Esta practica nos dará la posibilidad de decidir con que herramientas se intervendrá el objeto, hasta llevarlo a una maquina musical con todas sus características sonoras posibles.
 
  aprovecharemos sonidos que no están pensados para la música, como el sonar de un rin de bicicleta al rozarlo o golpearlo con un lápiz  o la resonancia de una caja al hacer vivrar dentro de ella  un motor .
 
