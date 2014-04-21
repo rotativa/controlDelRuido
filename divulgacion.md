@@ -12,6 +12,7 @@ En nuestro primer ejercicio nos pondremos como reto hacer de una caja de cartón
 Lo primero que vamos a realizar será desbalancear un motor pequeño poniendo un trozo de revestimiento de cable en su eje fig ( ) le conectaremos el  suiche según la grafica (  )  figura  
 Con los cables ya soldados al motor y unidos al circuito de suiche pegaremos el motor con silicona al agujero de la caja, luego conectaremos el piezo para amplificar la vibración de la caja y con un interruptor controlaremos cuando suena o cuando no.
 
+Para comprender mejor la idea de percusión con  la caja tendremos en cuenta que una vez conectados los micrófonos cambiara la sensibilidad y tendremos que golpear con diferente intensidad para lograr ritmos,
 pondremos un tornillo en la punta del eje de otro  motor según figura.
 luego lo ubicaremos en un  en un punto de la caja y al accionarlo con el suiche pulsador golpear la caja para producir sonidos
 
