@@ -9,17 +9,15 @@ Aprovecharemos sonidos que no están pensados para la música, como el sonido de
 
 En nuestro primer ejercicio nos pondremos como reto hacer de una caja de cartón un instrumento musical, inspirándonos en el sonido de un celular en modo vibrador encima de una mesa. Exploraremos la caja y sus posibilidades sonoras haciéndola vibrar, tocándola con objetos de materiales diferentes y amplificando su sonido con piezos y micrófonos conectados a un amplificador.
 
-
-
 Lo primero que vamos a realizar será desbalancear un motor pequeño poniendo un trozo de revestimiento de cable en su eje fig ( ) le conectaremos el  suiche según la grafica (  )  figura  
 Con los cables ya soldados al motor y unidos al circuito de suiche pegaremos el motor con silicona al agujero de la caja, luego conectaremos el piezo para amplificar la vibración de la caja y con un interruptor controlaremos cuando suena o cuando no.
 
 pondremos un tornillo en la punta del eje de otro  motor según figura.
-para asi ubicarlo en un punto de la caja y al accionarlo poder golpear la caja.
+luego lo ubicaremos en un  en un punto de la caja y al accionarlo con el suiche pulsador golpear la caja para producir sonidos
 
-ya instalados los  motores que nos harán la percusión y la vibración en la caja, clasificaremos una serie de sonidos  que usaremos como  notas y otros menos melodicos que usaremos como ritmo . 
+ya ubicados los  motores que harán la percusión y la vibración en la caja, clasificaremos unos sonidos de vibración que usaremos como  notas y otros de percusión que usaremos como ritmo . 
 
-ya teniendo nuestra caja de carton alterada  acompañaremos una base ritmica que prepararemos con  dos o tres canecas y dos sartenes para asi tener la gama basica de frecuencias altos(sartenes), medios (canecas), bajos (caja de bajos).
+ya teniendo nuestra caja de cartón alterada  acompañaremos una base rítmica que prepararemos con  dos o tres canecas y dos sartenes para tener  frecuencias altas(sartenes), medias (canecas), bajas (caja de bajos).
 
 
  
