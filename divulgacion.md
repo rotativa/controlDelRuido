@@ -1,12 +1,11 @@
 ### Divulgación
 
 
-Aquí desarrollaremos la curiosidad por el sonido de los objetos , estimularemos el ingenio para experimentar con diferentes materiales de uso cotidiano y su uso en la elaboracion de  maquinas, con las que podemos hacer musica.
+Aquí desarrollaremos la curiosidad por el sonido de los objetos , estimularemos el ingenio para experimentar con diferentes materiales de uso cotidiano y su uso en la elaboración de  maquinas, con las que podemos hacer música.
 
+En el proceso de reconocimiento de materiales jugaremos con el sonido de forma didáctica, incentivando  la curiosidad. Considerando aspectos en los objetos como sus sonoridades y tamaños. Haremos pruebas sonoras con materiales como cartón, desarrollando técnicas de ejecución como: percutir,rozar y vibrar. Esta practica nos dará la posibilidad de decidir con que herramientas se intervendrá el objeto, hasta llevarlo a una maquina musical.
 
-En este proceso de reconocimiento jugaremos con el sonido de forma didactica, insentivando  la curiosidad. Considerando aspectos en los objetos como sus sonoridades y tamaños. Haremos pruebas sonoras con algunos materiales como carton, desarrollando diversas técnicas de ejecución como percutir,rozar y vibrar. Esta practica nos dará la posibilidad de decidir con que herramientas se intervendrá el objeto, hasta llevarlo a una maquina musical.
-
-Aprovecharemos sonidos que no están pensados para la música, como el sonar de un rin de bicicleta al golpearlo con un lápiz  o la resonancia de una caja al hacer vibrar dentro de ella  un motor .
+Aprovecharemos sonidos que no están pensados para la música, como el sonido de un rin de bicicleta al golpearlo con un lápiz  o la resonancia de una caja al hacer vibrar dentro de ella  un motor .
 
 
 En nuestro primer ejercicio nos pondremos como reto hacer de una caja de carton un instrumento musical, inspirandonos en el sonido de un celular en modo vibrador encima de una mesa o el sonido de un control de videojuegos cuando tiene vibrador. Exploraremos la caja y sus posibilidades sonoras haciendola vibrar,percutiendola y amplificando su sonido con piezos y microfonos conectados a un amplificador.
