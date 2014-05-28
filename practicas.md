@@ -14,7 +14,7 @@ desarrollo de esta prueba:  haremos una explicación muy practica de el uso de e
 
  materiales: cajas de cartón de diferentes tamaños, piezos eléctricos de diferentes clases o iguales no importa, cables tipo linea como los que se usan para guitarras y bajos,  conector hembra  o jack  cintas aislantes, 
 
-En esta prueba usaremos ya los piezos conectados con su respectivo cable,conectaremos el jack haciendo mucho énfasis en un buen soldado de piezas, conectaremos el cable de guitarra y empezaremos  acercando y tal vez pegando los piezos en las cajas para así distribuir por sus tamaños y timbres que tipo de intervalos sonoros generan y así construir una serie de cajas bajas tipo bongo de madera.
+En esta prueba usaremos ya los piezos conectados con su respectivo cable,conectaremos el jack haciendo mucho énfasis en un buen soldado de piezas y cuidado con la polaridad de el cicuito y la funte que alimenta el motor,  conectaremos el cable de guitarra y empezaremos  acercando y tal vez pegando los piezos en las cajas para así distribuir por sus tamaños y timbres que tipo de intervalos sonoros generan y así construir una serie de cajas bajas tipo bongo de madera.
 
 
 3.hacer un instrumento musical inspirado en la vibración, pasando por una clara explicación de este principio el cual nos describe el desbalance y la vibración en un solo componente(motor de bobina) haremos que esta misma experiencia de la caja y todo nuestro conocimiento aplicado a la manipulación del piezo y sus posibilidades conductoras y transformadoras  de energía, nos permita controlar incluso intervalos sonoros aplicables a la música. 
