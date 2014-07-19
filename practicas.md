@@ -113,6 +113,51 @@ pasos: planeacion de los circuitos, recoleccion de componentes, ensamble de la c
                       
                              
        
+Partida 
+
+
+
+julio:    construimos atari punks, nueve prototipos 
+
+se dio la proimera clase exitosamente https://www.facebook.com/photo.php?v=10152556861069025&set=vb.787334024&type=2&theater
+
+
+se construyó un secuenciador muy completo para explicar ritmo  altura secuencias.
+
+se usará mas delante.
+
+
+el secuenciador esta en este enlace
+http://owyheesound.com/sequencer.php
+
+queda perfecto 
+
+
+
+las maquinitas que hicimos este el el plano:   
+materiales
+555
+resistencia 1k
+resistencia rojo  naranja naranja
+potenciometro 1mega
+filtro 100 nuf 
+ceramico 103
+ceramico 104
+
+parlante 
+suiche
+pila  
+conector jack un cuarto
+caja para ensamblar
+cautin 
+soldadura
+silicona
+cables 
+
+
+resultado
+https://www.facebook.com/photo.php?v=10152556861069025&set=vb.787334024&type=2&theater
+
 
 
 
