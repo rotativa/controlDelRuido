@@ -159,6 +159,16 @@ resultado
 https://www.facebook.com/photo.php?v=10152556861069025&set=vb.787334024&type=2&theater
 
 
+septiembre 2014
+
+bass, filtro  y cajita de tonos.
+
+estos tres proyectos los desarrollé en el proceso de enfocar nuestras herramientas sonoras y conocimientos a las materias y sus  clases tipo show didactico por ejemplo,  para exponerlas.
+
+
+
+
+
 
 
 
